@@ -3,6 +3,14 @@
 <!--
 **salemango/salemango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Name: Salem Mangum
+Email address: blackfootedcat2021@gmail.com
+Description of the repository: A clone of salemango (a public read me file providing a description of myself)
+Steps: Logged into github, made salemango repository, downloaded github desktop, logged in on github desktop, cloned salemango repository to CTI110 folder
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
