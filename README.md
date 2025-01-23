@@ -1,40 +1,13 @@
-## Hi there 👋
+# Hi!!! 🐈 I'm Salem!
 
+## Introduction! 😺
+Currently, I'm studying web design and development. I also love creating art of many types. Many of my favorite personal projects involve combining aspects of my artistic passion into my web designs.
 
-# About Me 
+In fact, I find that web development is not only an important platform for finding and sharing information on the Internet, but also an incredibly fun medium for art projects such as interactive puzzles, writing, community building, and more. Every time I ask "what can I do with this technology?" the answer only gets longer. I'm excited to be learning and expanding my skillset more and more every day, both when it comes to professional projects and my hobbies.
 
-## My Interests
-Hi! My name is Salem and I'm studying web design and programming. I also love creating art and stories; my favorite projects involve blending those passions with my work. Welcome to my profile! 
+## My Skills! 😼
+- I'm great at both HTML and CSS.
+- I'm proficient at JavaScript (but there's always more to learn!)
+    - I'm familiar with jQuery and always breathe a little sigh of relief whenever I can use it. 
+- I'm also proficient with C++! 
 
-## Fun facts!
-    - **Languages I know well:** HTML, CSS
-    - **Languages I'm learning:** JavaScript, C++
-
-## Websites I Recommend
-    - [Coolors](https://coolors.co/) - A fun and intuitive color palette generator that I enjoy using not only for web design projects, but more traditional art pieces as well.
-    - [Unsplash](https://unsplash.com/) - An expansive free stock photo repository with almost anything you could ever ask for. 
-
-
-
-<!--
-**salemango/salemango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Name: Salem Mangum
-Email address: blackfootedcat2021@gmail.com
-Description of the repository: A clone of salemango (a public read me file providing a description of myself)
-Steps: Logged into github, made salemango repository, downloaded github desktop, logged in on github desktop, cloned salemango repository to CTI110 folder
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
