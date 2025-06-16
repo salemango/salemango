@@ -8,12 +8,12 @@ My designs focus on combining my artistic experience with my web design knowledg
 - HTML
 - CSS
 
-## Currently learning: 
+## Currently learning
 - Oracle APEX
 - SQL
 - Relational database management system fundamentals
 
-## Find me on: 
+## Find me on
 - [LinkedIn](https://www.linkedin.com/in/salem-mangum/)
 - [Handshake](https://app.joinhandshake.com/profiles/n2eqn2)
 
